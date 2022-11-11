@@ -77,7 +77,7 @@ print(v1 %in% t)
 print(v2 %in% t)
 
 # (%*%)  	This operator is used to multiply a matrix with its transpose.
-M <- matrix(c(3:14), nrow = 4, byrow = TRUE)
+M <- matrix(c(3:14), nrow = 3, byrow = FALSE)
 print(M)
 
 
